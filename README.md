@@ -1,6 +1,6 @@
 # Laboratory work on Access No. 1
 
-[Лаба 1.doc]
+[Лаба 1.docx]
 
 | Number | Task | Screenshot |
 |:------:|:----------|----------|
