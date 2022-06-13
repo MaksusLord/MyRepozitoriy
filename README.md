@@ -1,6 +1,6 @@
 # Laboratory work on Access No. 1
 
-[лаба 1.docx]
+[[лаба 1.docx](https://github.com/MaksusLord/MyRepozitoriy/blob/main/лаба%201.docx)]
 
 | Number | Task | Screenshot |
 |:------:|:----------|----------|
