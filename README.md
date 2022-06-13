@@ -2,8 +2,8 @@
 
 | Number | Task | Screenshot |
 |:------:|:----------|----------|
-| 1 |  |  |
-| 2 |  |  |
+| 1 | Run Access and create a new database. |  |
+| 2 | Create a layout of a table containing the following fields: Student Code, Surname, First Name, Group, Address, Phone, Photo, Notes. |  |
 | 3 |  |  |
 | 4 |  |  |
 | 5 |  |  |
