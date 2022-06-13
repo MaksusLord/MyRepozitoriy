@@ -1,5 +1,7 @@
 # Laboratory work on Access No. 1
 
+[]
+
 | Number | Task | Screenshot |
 |:------:|:----------|----------|
 | 1 | Run Access and create a new database. |  |
